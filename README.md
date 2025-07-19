@@ -60,7 +60,7 @@ Currently deepening:
 ## 📫 Contact
 
 📧 `giuliaserena.orlando [at] outlook.it`  
-🌐 [LinkedIn]([https://www.linkedin.com/in/giuliaorlando-webdeveloper-linguist/])  
+🌐 [LinkedIn](https://www.linkedin.com/in/giuliaorlando-webdeveloper-linguist/)  
 🐙 [GitHub](https://github.com/GiuliaSerenaOrlando)
 
 ---
